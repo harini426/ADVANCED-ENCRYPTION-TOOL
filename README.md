@@ -52,3 +52,6 @@ The tool utilizes the Crypto.Cipher module for AES implementation. To ensure max
 This project demonstrates the practical application of symmetric encryption in securing local files. It highlights the importance of key management and robust algorithm selection in modern cybersecurity workflows.
 
 ## OUTPUT
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/65543836-707a-4305-9b3c-e4a319f86e77" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/23668cb4-d75f-4fa3-9c6a-9b082b64ca48" />
