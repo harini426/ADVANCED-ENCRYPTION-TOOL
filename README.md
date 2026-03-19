@@ -30,8 +30,7 @@ Encryption_Project/
 └── README.md            # Project documentation
 
 ## Installation & Usage
- * Clone the repository:
-   git clone https://github.com/your-username/Advanced-Encryption-Tool.git
+
 cd Advanced-Encryption-Tool
 
  * Install dependencies:
